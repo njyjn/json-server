@@ -1,5 +1,5 @@
 {
-  "name": "json-server",
+  "name": "fdb-server",
   "version": "0.12.1",
   "description": "Serves JSON files through REST routes.",
   "main": "./lib/server/index.js",
@@ -46,6 +46,7 @@
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-standard": "^3.0.1",
     "husky": "^0.14.3",
+    "json-server": "^0.12.1",
     "markdown-toc": "^1.2.0",
     "mkdirp": "^0.5.1",
     "mocha": "^4.0.1",
